@@ -1,0 +1,5 @@
+CLASSES NOT FOUND YET
+
+col-lg-6 content order-lg-1 order-2
+row about-container
+col-lg-6 background order-lg-2 order-1 wow fadeInRight
